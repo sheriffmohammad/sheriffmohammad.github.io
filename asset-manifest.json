@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.94903ea8.css",
-    "main.js": "/static/js/main.92c381dc.js",
+    "main.css": "/static/css/main.3214ff49.css",
+    "main.js": "/static/js/main.4d654932.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/cdis.png": "/static/media/cdis.c902b7f5aef584f8b1f7.png",
     "static/media/cu-certificate.jpg": "/static/media/cu-certificate.b33b814c104dc94f52ae.jpg",
@@ -32,6 +32,7 @@
     "static/media/tfvc.svg": "/static/media/tfvc.a1c78bbff2ecd592e91ea7a3af413f22.svg",
     "static/media/arrow.svg": "/static/media/arrow.c50745bed3b8e88e359085f3fa266eae.svg",
     "static/media/css-3.svg": "/static/media/css-3.9cecabbf6ce67609c48bc4f280a11002.svg",
+    "static/media/info.svg": "/static/media/info.679c10f1106612a400cf0abcd7880fa3.svg",
     "static/media/location.svg": "/static/media/location.7e97b2f969704bee482b139fc2f4406d.svg",
     "static/media/external-link.svg": "/static/media/external-link.8bf46c99d61f0ab3759ba366179acae7.svg",
     "static/media/chakra.svg": "/static/media/chakra.6034f3af8864044e32b8e98bf83511a4.svg",
@@ -39,18 +40,19 @@
     "static/media/html-5.svg": "/static/media/html-5.c28bc66880bc822f7aedbda70b2bf142.svg",
     "static/media/angular.svg": "/static/media/angular.245ff2277a677845e7e8d18339766b54.svg",
     "static/media/tailwind.svg": "/static/media/tailwind.973c73e85d4daa24b257ba20298716c4.svg",
+    "static/media/back.svg": "/static/media/back.498d88102ed0e695d25df249fbe2c62b.svg",
     "static/media/honours-degree.svg": "/static/media/honours-degree.66a3d7a1b4b0a5f660adf3355e491e99.svg",
     "static/media/gpa.svg": "/static/media/gpa.3314a3d0d8a1c30a0ab51aa0fec8e25b.svg",
     "static/media/fourth.svg": "/static/media/fourth.02545b2c8cca6e8ccded21b0096547af.svg",
     "static/media/date.svg": "/static/media/date.f79f6b75c204f3a619fb70be1a45df61.svg",
     "static/media/arrow-down.svg": "/static/media/arrow-down.c4ffa4fe4c94108b652265a32f66a17b.svg",
     "static/media/arrow-up.svg": "/static/media/arrow-up.75063538b6498e57ad80b41b64615b88.svg",
-    "main.94903ea8.css.map": "/static/css/main.94903ea8.css.map",
-    "main.92c381dc.js.map": "/static/js/main.92c381dc.js.map",
+    "main.3214ff49.css.map": "/static/css/main.3214ff49.css.map",
+    "main.4d654932.js.map": "/static/js/main.4d654932.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.94903ea8.css",
-    "static/js/main.92c381dc.js"
+    "static/css/main.3214ff49.css",
+    "static/js/main.4d654932.js"
   ]
 }
