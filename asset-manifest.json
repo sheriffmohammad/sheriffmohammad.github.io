@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c181a6aa.css",
-    "main.js": "/static/js/main.604b1fa3.js",
+    "main.css": "/static/css/main.3dc7058a.css",
+    "main.js": "/static/js/main.9659b87d.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/cdis.png": "/static/media/cdis.c902b7f5aef584f8b1f7.png",
     "static/media/cu-certificate.jpg": "/static/media/cu-certificate.b33b814c104dc94f52ae.jpg",
@@ -53,12 +53,12 @@
     "static/media/date.svg": "/static/media/date.f79f6b75c204f3a619fb70be1a45df61.svg",
     "static/media/arrow-down.svg": "/static/media/arrow-down.c4ffa4fe4c94108b652265a32f66a17b.svg",
     "static/media/arrow-up.svg": "/static/media/arrow-up.75063538b6498e57ad80b41b64615b88.svg",
-    "main.c181a6aa.css.map": "/static/css/main.c181a6aa.css.map",
-    "main.604b1fa3.js.map": "/static/js/main.604b1fa3.js.map",
+    "main.3dc7058a.css.map": "/static/css/main.3dc7058a.css.map",
+    "main.9659b87d.js.map": "/static/js/main.9659b87d.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c181a6aa.css",
-    "static/js/main.604b1fa3.js"
+    "static/css/main.3dc7058a.css",
+    "static/js/main.9659b87d.js"
   ]
 }
